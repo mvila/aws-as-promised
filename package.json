@@ -4,6 +4,9 @@
   "description": "Yet another AWS SDK promise wrapper",
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
+  "files": [
+    "lib"
+  ],
   "main": "lib/index.js",
   "repository": {
     "type": "git",
